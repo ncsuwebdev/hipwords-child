@@ -9,7 +9,7 @@
  */
 
 get_header(); ?>
-]
+
 <!-- putting this here instead of header -->
 <div class="col-md-12">
 
