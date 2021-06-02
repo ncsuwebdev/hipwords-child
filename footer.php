@@ -9,8 +9,8 @@
 ?>
 
 <!-- #content -->
-
 </div>
+
 <div class="footer container">
 
 	<div class="col-md-4">
