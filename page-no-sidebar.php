@@ -8,7 +8,7 @@
  * @package hipwords
  */
 
-get_header(); ?>
+get_header('no-sidebar'); ?>
 
 <!-- putting this here instead of header -->
 <div class="col-md-12">
