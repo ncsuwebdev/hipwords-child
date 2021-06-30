@@ -53,6 +53,10 @@ body {
 	padding: 10px;
 }
 
+.vendor-container img {
+	padding: 20px
+}
+
 .vendor-container.gold {
 	border: #B88D00 1px solid;
 }
