@@ -14,7 +14,9 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
 	<?php wp_head(); ?>
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a4d8265f18725a43ae8c6024f/4cf439d5bfbca2e8b5a271211.js");</script>	
+	
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a4d8265f18725a43ae8c6024f/4cf439d5bfbca2e8b5a271211.js");</script>
+
 </head>
 <body <?php body_class(); ?> data-target=".navbar-fixed-top">
 <div class="header-top">
@@ -87,4 +89,4 @@
 	</div>
 </div>
 <div id="page" class="container">
-    <!-- column container omitted -->
+	<div class="col-md-7">
