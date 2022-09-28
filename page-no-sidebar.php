@@ -33,4 +33,7 @@ get_header('no-sidebar'); ?>
     </div><!-- #primary -->
 </div>
 
+
+<?php include('vendors.php'); ?>
+
 <?php get_footer(); ?>

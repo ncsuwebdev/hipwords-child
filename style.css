@@ -54,7 +54,8 @@ body {
 }
 
 .vendor-container img {
-	padding: 20px
+	padding: 20px;
+	margin: 20px;
 }
 
 .vendor-container.gold {
