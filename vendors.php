@@ -178,7 +178,7 @@
             <img src="http://2022.unccause.org/wp-content/uploads/sites/13/2022/09/2019_InstructureLogoHorizontal_Color-300x43.jpg" alt="">
         </a>
         <a href="https://www.automox.com/lp/request-demo">
-            <img src="rapidauto-300x30.png" alt="">
+            <img src="http://2022.unccause.org/wp-content/uploads/sites/13/2022/09/rapidauto-300x30.png" alt="">
         </a>
     </p>
 </div>
