@@ -181,5 +181,8 @@
             <img src="http://2022.unccause.org/wp-content/uploads/sites/13/2022/09/rapidauto-300x30.png" alt="">
         </a>
     </p>
+<p style="text-align:center;">
+<a href="https://www.paloaltonetworks.com/"><img src="http://2022.unccause.org/wp-content/uploads/sites/13/2022/10/Parent-logo-300x109.png"></a>
+</p>
 </div>
 
