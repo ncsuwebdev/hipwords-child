@@ -20,13 +20,6 @@ get_header('no-sidebar'); ?>
 
                 <?php get_template_part('content', 'page'); ?>
 
-                <?php
-                // If comments are open or we have at least one comment, load up the comment template
-                if (comments_open() || get_comments_number()) :
-                    comments_template();
-                endif;
-                ?>
-
             <?php endwhile; // end of the loop. ?>
 
         </main><!-- #main -->
@@ -34,6 +27,5 @@ get_header('no-sidebar'); ?>
 </div>
 
 
-<?php include('vendors.php'); ?>
 
 <?php get_footer(); ?>

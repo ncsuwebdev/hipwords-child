@@ -37,11 +37,7 @@
 </div> <!-- end container -->
 
 <footer id="colophon" class="container text-center" role="contentinfo">
-	<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'hipwords' ) ); ?>"><?php printf( __( 'Powered by %s', 'hipwords' ), '<b>WordPress</b>' ); ?></a>
-	<span class="sep"> | </span>
-	<a href="<?php echo esc_url( __('http://forbetterweb.com/', 'hipwords') ); ?>" title="<?php esc_attr_e('forbetterweb.com', 'hipwords'); ?>">
-		<?php printf( __('Theme: <b>HipWords</b> by %s.', 'hipwords'), 'ForBetterWeb.com' ); ?>
-	</a>
+&copy;UNC CAUSE | UNIVERSITY OF NORTH CAROLINA COLLEGE AND UNIVERSITY SYSTEMS EXCHANGE
 </footer><!-- #colophon -->
 <?php wp_footer(); ?>
 </body>

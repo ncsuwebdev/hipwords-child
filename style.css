@@ -36,36 +36,26 @@ body {
 	font-size:17px;
 }
 
-.gold-vendors { 
-	color: #B88D00;
+.content-area ul {
+
+	margin-bottom: 20px!important;
 }
 
-.silver-vendors {
-	color: #949494;
+.vendor-price {
+  margin-top: -25px;
 }
 
-.bronze-vendors {
-	color: rgb(161, 116, 25)
+.wp-block-latest-posts li:not(.wp-block-latest-posts__post-full-content *) {
+    clear: both;
+    margin: 40px 0;
 }
 
-.vendor-container { 
-	margin:50px;
-	padding: 10px;
+.wp-block-latest-posts__post-title {
+    font-weight: bold;
+    font-size: 23px;
 }
 
-.vendor-container img {
-	padding: 20px;
-	margin: 20px;
-}
+.wp-block-latest-posts__post-date {
+    font-size: 1em;
+    padding: 10px 0;
 
-.vendor-container.gold {
-	border: #B88D00 1px solid;
-}
-
-.vendor-container.silver {
-	border: #949494 1px solid;
-}
-
-.vendor-container.bronze {
-	border: rgb(161, 116, 25) 1px solid;
-}
