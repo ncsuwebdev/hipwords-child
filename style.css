@@ -58,4 +58,13 @@ body {
 .wp-block-latest-posts__post-date {
     font-size: 1em;
     padding: 10px 0;
+}
+
+@media (max-width: 770px) {
+  /* hide on mobile */
+  .xs-hidden {
+    display:none !important;
+  }
+}
+
 
